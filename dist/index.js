@@ -51,3 +51,4 @@ console.log("=== Catálogo de Produtos ===\n");
 for (const produto of produtos) {
     console.log(exibirProduto(produto));
 }
+
